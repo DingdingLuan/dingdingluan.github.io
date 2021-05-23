@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dingdingluan.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-05-23T04:18:02.298Z</updated>
+    <title>栾狗的网站</title>
+    <updated>2021-05-23T04:23:20.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dingdingluan.github.io"/>
     <link rel="self" href="https://dingdingluan.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我是狗</subtitle>
     <logo>https://dingdingluan.github.io/images/avatar.png</logo>
     <icon>https://dingdingluan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 栾狗的网站</rights>
     <entry>
         <title type="html"><![CDATA[我爱你jhh]]></title>
         <id>https://dingdingluan.github.io/post/wo-ai-ni-jhh/</id>
